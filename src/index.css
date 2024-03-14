@@ -82,6 +82,7 @@ main {
   width:90%;
   margin: 1.5rem 5%;
   box-shadow: 0 0 .5rem .1rem;
+  border-radius: 1rem;
 }
 
 .myProjects ul li h3 {
@@ -91,6 +92,7 @@ main {
 .myProjects ul li p{
   font-size: 1rem;
   margin-top: .5rem;
+  padding-bottom: .5rem;
 }
 
 footer {
